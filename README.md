@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/ELABDELLAOUI-HAJAR/ELABDELLAOUI-HAJAR/tree/master/images/programming.gif" width="300px" alt="Programmer girl"/>
+  ![Programmer girl](https://github.com/ELABDELLAOUI-HAJAR/ELABDELLAOUI-HAJAR/tree/master/images/programming.gif)
 </div>
 
 <h1>
