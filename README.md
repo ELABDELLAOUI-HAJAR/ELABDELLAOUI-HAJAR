@@ -7,7 +7,7 @@
 </h1>
 
 ### 👩‍💻 : About Me :
-I am a Moroccan software Engineer <img src="https://raw.githubusercontent.com/ELABDELLAOUI-HAJAR/ELABDELLAOUI-HAJAR/master/images/coding.gif" width="20px" alt="Programmer girl"/>
+I am a Moroccan software Engineer <img src="https://raw.githubusercontent.com/ELABDELLAOUI-HAJAR/ELABDELLAOUI-HAJAR/master/images/coding.gif" width="60px" alt="Programmer girl"/>
 - 🌱 I’m currently following the ALX program for software engineers, a comprehensive learning path designed to enhance my skills in software development.
 - 💞️ Through this program, I'm honing my abilities to create efficient and scalable software solutions. I'm excited to tackle challenges and grow as a software engineer.
 - ✨ I love C, Python, Java and PLSQL
