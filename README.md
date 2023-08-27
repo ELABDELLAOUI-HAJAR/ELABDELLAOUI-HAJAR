@@ -15,7 +15,7 @@ I am a Moroccan software Engineer
 - 🌱 I’m currently following the ALX program for software engineers, a comprehensive learning path designed to enhance my skills in software development.
 - 💞️ Through this program, I'm honing my abilities to create efficient and scalable software solutions. I'm excited to tackle challenges and grow as a software engineer.
 - ✨ I love C, Python, Java and PLSQL
-- 📫 How to reach me **Connect with me on [LinkedIn](https://www.linkedin.com/in/elabdellaoui-hajar/)** 🌐
+- 📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/elabdellaoui-hajar/)** 🌐
 
 ### 🔧 : Languages and Tools :
 <div>
