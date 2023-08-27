@@ -6,7 +6,7 @@
   👋 Hi, I’m EL ABDELLAOUI HAJAR
 </h1>
 
-### :woman_technologist : About Me :
+### 👩‍💻 : About Me :
 I am a Moroccan software Engineer <img src="https://github.com/ELABDELLAOUI-HAJAR/ELABDELLAOUI-HAJAR/tree/master/images/coding.gif" width="20px" alt="Programmer girl"/>
 - 🌱 I’m currently following the ALX program for software engineers, a comprehensive learning path designed to enhance my skills in software development.
 - 💞️ Through this program, I'm honing my abilities to create efficient and scalable software solutions. I'm excited to tackle challenges and grow as a software engineer.
