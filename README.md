@@ -14,7 +14,7 @@ I am a Moroccan software Engineer
 
 - 🌱 I’m currently following the ALX program for software engineers, a comprehensive learning path designed to enhance my skills in software development.
 - 💞️ Through this program, I'm honing my abilities to create efficient and scalable software solutions. I'm excited to tackle challenges and grow as a software engineer.
-- ✨ I love C, Python, Java and PLSQL
+- ✨ I love C, Python, Java, PLSQL and React 😍😍😍
 - 📫 **Connect with me on [LinkedIn](https://www.linkedin.com/in/elabdellaoui-hajar/)** 🌐
 
 ### 🔧 : Languages and Tools :
@@ -28,6 +28,9 @@ I am a Moroccan software Engineer
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 </div>
 
 ### 🎛️ : My Stats :
